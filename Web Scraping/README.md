@@ -19,9 +19,6 @@ Your colab should look like this. This colab document will be used as a guide to
 
 we will need to open up a new Jupyter Notebook. Expand **File** and select **New Notebook**.
 
-# sources 
-
-
 ![image](https://github.com/jordanadrianoo/Hack-Quarantine-2020/blob/master/Repository%20Images/Web%20Scraper%20Images/Colab%20New%20Notebook%20demo.JPG?raw=true)
 
 Once a blank document is opened in a new tab we can begin to populate it with code!
