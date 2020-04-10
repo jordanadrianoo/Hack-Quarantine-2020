@@ -6,12 +6,11 @@ Flutter is an UI software development kit created by google. Flutter allows for 
 
 You can simpy install flutter using their main web page and following the directions according to platform you are developing in.
 
-### **Download Links**
+### **Download Links-**
 
 - [Flutter for Windows](https://flutter.dev/docs/get-started/install/windows)
 - [Flutter for MacOS](https://flutter.dev/docs/get-started/install/macos)
 - [Flutter for Linux](https://flutter.dev/docs/get-started/install/linux)
-
 - [Andriod Studio](https://developer.android.com/studio)
 
 ## Fluter Console
