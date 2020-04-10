@@ -115,7 +115,11 @@ df = pd.DataFrame(data)
 
 This will transfer the content from data and parse it into the panda dataframe.
 
+in the same cell ***type***
 
-
+```
+df.columns = df.iloc[0]
+```
+This second part of code will set the first list of arrays as the title. 
 
 
