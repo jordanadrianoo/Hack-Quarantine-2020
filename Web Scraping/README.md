@@ -105,4 +105,13 @@ data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Parsing%20the%20table.JPG)
 
-This extremly difficult part can be fully understood using this [video source](http://www.youtube.com/watch?v=Ssi1A8FAAFI&t=16m25s). This video will start in the middle explaining how to find pattern recognition and how this parsing line of code works. 
+This extremly difficult part can be fully explained using this [video source](http://www.youtube.com/watch?v=Ssi1A8FAAFI&t=16m25s). This video will start in the middle explaining how to find pattern recognition and how this parsing line of code works. 
+
+In a new cell we will type
+
+```
+df = pd.DataFrame(data)
+```
+
+
+
