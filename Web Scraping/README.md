@@ -1,6 +1,6 @@
 # Web Scraping with Python
 
-In this repository we will look at the essientials and fundamentals of web scraping. This web scraper will be created within the Python Jupyter Notebook IDE and use **numpy**, **pandas**, **request**, and **BeautifulSoup** libraries. It is possible to use a standard Python IDE with proper preperations, but for this repository it is advised to use the online Colab provided below for it includes the essiential libraries. Full Credit and video belongs to Wyatt. Here is a video link to the [full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI) on youtube!
+In this repository we will look at the essientials and fundamentals of web scraping. This web scraper will be created within the Python Jupyter Notebook IDE and use **numpy**, **pandas**, **request**, and **BeautifulSoup** libraries. It is possible to use a standard Python IDE with proper preperations, but for this repository it is advised to use the online Colab provided below for it includes the essiential libraries. Credit and video belongs to Wyatt Phillips. Here is a video link to the [full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI) on youtube!
 
 ## Colab Setup
 
@@ -170,6 +170,11 @@ With the foundation of web scraping there is alot of information you can extract
 
 # sources
 
-- [Wyatt's full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI)
+- [Wyatt Phillips full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI)
+- [Wyatt Phillips powerpoint](https://docs.google.com/presentation/d/1zHwfvTlk9vXFhiDdJSeFzasBZgwor1xM1wTiQH_qRDY/edit#slide=id.g720c73f8d4_0_136)
 - [Colab](https://colab.research.google.com/drive/1KGh5r59YJuNRCR3JRhJCJojgt9vR8IUW#scrollTo=7RyOhSZaiM7R)
+- [Worldometer](https://www.worldometers.info/)
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Xpath Cheatsheet](https://devhints.io/xpath)
+- [Panda's Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)
 
