@@ -33,6 +33,9 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 ```
+once finished typing, **Press** <shift + enter> run current cell and create a new cell. If no errors are shown the partition code is running.
+
+
 
 **Library purpose**
 - **numpy:** allows us to create multi-dimensional arrays
