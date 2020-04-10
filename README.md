@@ -6,4 +6,4 @@ This Repository will keep track of various projects and workshops from Hack Quar
 
 ## Web Scraping with Python
 
-<img src="Repository Images/web scraping Banner.png" width="650" height="450">
+<img src="Repository Images/web scraping Banner.png" >
