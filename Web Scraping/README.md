@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 ```
 once finished typing, ***Press*** <**shift + enter**> to run current cell and create a new cell. If no errors are shown the partition code is running perfectly.
 
-
+<img src="https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Import%20Libraries%20Demo.JPG">
 
 **Libraries purposes-**
 - **numpy:** allows us to create multi-dimensional arrays
