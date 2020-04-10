@@ -41,8 +41,14 @@ The **Flutter Doctor** will check if you are ready to start developing in 5 diff
 
 If you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
 
-For this project, we will be developing on Visual Studio Code. Most likely Flutter Doctor will indicate that Visual Studio is not ready for Flutter development. We will need to download an extension.
+For this project, we will be developing on **Visual Studio Code**. Most likely Flutter Doctor will indicate that **Visual Studio code** is not ready for Flutter development. We will need to download an extension.
 
 ## Flutter Extension for Visual Code
 
+Downloading an extension for **Visual Studio Code** is easy because of how open Studio code can be. 
+
+[Visual Studio Flutter Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Flutter%20Extension.JPG)
+
+
