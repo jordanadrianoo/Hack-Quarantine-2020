@@ -81,4 +81,4 @@ Although we did install the Flutter Extension, We must also install the **Flutte
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Dart%20Code.JPG)
 
-In the new search box *type* "**Flutter**" and click on the first option. A new flutter page should open up and look similar to the first section that we downloaded. This is the Flutters Dart Code. *click* **Install**.
+In the new search box *type* "**Flutter**" and click on the first option. A new flutter page should open up and look similar to the first section that we downloaded. This is the Flutters Dart Code. click **Install** to add the extension to your Visual Studio IDE.
