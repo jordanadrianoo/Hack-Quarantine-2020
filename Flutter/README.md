@@ -4,12 +4,12 @@ Flutter is an UI software development kit created by google. Flutter allows for 
 
 ## pre-required Software
 
-you will need to have both **Git Bash** and **Visual Code** for this project. 
+you will need to have both **Git Bash** and **Visual Code** for this project. **Note:** *My visual Studio Code might look different than yours due to my dark pink theme.* 
 
 ### Software Download Links
 - [Git bash for Windows](https://gitforwindows.org/)
 - [Git bash for MacOS](https://git-scm.com/download/mac)
-- [Visual Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## Installing Flutter SDK
@@ -43,7 +43,7 @@ If you see that any of the section is not checked or has a red x, follow the ins
 
 For this project, we will be developing on **Visual Studio Code**. Most likely Flutter Doctor will indicate that **Visual Studio code** is not ready for Flutter development. We will need to download an extension.
 
-## Flutter Extension From Visual Studio Market
+## Installing Flutter Extension From Visual Studio Market
 To download the Visual Studio Flutter Extension from the Market, it can be easily downloaded with the provided link.
 [Visual Studio Flutter Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
@@ -53,9 +53,9 @@ Once you click **Download** you will be prompted to be redirected to Visual Stud
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Extension%20Download.JPG)
 
-Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio IDE. **Note:** *My visual code might look different than yours due to my theme.* 
+Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio IDE. 
 
-## Installing flutter directly from Vistual Studio Code
+## Installing Flutter directly from Vistual Studio Code
 
 If for whatever reason you cannot visit the Visual Studio Market, we can still install Flutter's Dart Code from Visual Studio Code itself.
 
