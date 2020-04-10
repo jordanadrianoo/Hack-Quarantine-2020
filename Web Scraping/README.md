@@ -169,3 +169,7 @@ Once downloaded locally, you can **open** the file in **Microsoft Excel**.
 With the foundation of web scraping there is alot of information you can extract and conclude. Try using diffrent websites and see what you can scrape together!
 
 # sources
+
+- [Wyatt's full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI)
+- [Colab](https://colab.research.google.com/drive/1KGh5r59YJuNRCR3JRhJCJojgt9vR8IUW#scrollTo=7RyOhSZaiM7R)
+
