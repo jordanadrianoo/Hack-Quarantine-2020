@@ -95,5 +95,10 @@ table# main_table_countries_today tr
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Table%20Elements.JPG)
 
+now that we can confirm that these are the elements within the table we can tell python what to extract from the HTML document.
 
+Back in your Notebook we will use this infomation to create a new cell to parse the information. ***Disclaimer:*** *This section can be very challenging to read at first*. 
 
+```
+data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.select('table#main_table_countries_today tr')))
+```
