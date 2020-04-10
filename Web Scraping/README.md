@@ -37,7 +37,7 @@ once finished typing, ***Press*** <**shift + enter**> to run current cell and cr
 
 
 
-**Library purpose**
+**Libraries purposes-**
 - **numpy:** allows us to create multi-dimensional arrays
 - **pandas:** is used for data manipulation and analysis
 - **request:** allows HTML request to function smoothly
