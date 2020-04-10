@@ -85,6 +85,13 @@ table# main_table_countries_today
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20find%20ID.JPG)
 
-We are searching the entire 
+We are searching the entire HTML doument for the table ID but we will add **tr** to return each element within the table. 
+
+ ```
+table# main_table_countries_today tr
+```
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Table%20Elements.JPG)
+
 
 
