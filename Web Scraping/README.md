@@ -139,6 +139,7 @@ df
 ```
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Our%20Data%20Table.JPG)
 
+## Exporting as CVS file
 
 **congratulations!** You have successfully extracted the information from the website provided. What can we do with this information though? Thank you for asking! we can export this information into a **cvs** file. ***type***
 
@@ -155,3 +156,6 @@ This will export the data table as a CVS and save within the google drive. Locat
 Once downloaded locally, you can **open** the file in **Microsoft Excel**. 
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Excel%20Spread%20Sheet.JPG)
+
+With the foundation of web scraping there is alot of information you can extract and conclude. Try using diffrent websites and see what you can extract!
+
