@@ -43,8 +43,8 @@ If you see that any of the section is not checked or has a red x, follow the ins
 
 For this project, we will be developing on **Visual Studio Code**. Most likely Flutter Doctor will indicate that **Visual Studio code** is not ready for Flutter development. We will need to download an extension.
 
-## Flutter Extension for Visual Code
-To download the Visual Studio Flutter Extension it can be easily downloaded with the provided link.
+## Flutter Extension From Visual Studio Market
+To download the Visual Studio Flutter Extension from the Market, it can be easily downloaded with the provided link.
 [Visual Studio Flutter Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Flutter%20Extension.JPG)
@@ -55,7 +55,11 @@ Once you click **Download** you will be prompted to be redirected to Visual Stud
 
 Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio IDE. **Note:** *My visual code might look different than yours due to my theme.* 
 
-Next, close out of everything to get a clean workspace.
+## Installing flutter directly from Vistual Studio Code
+
+If for whatever reason you cannot visit the Visual Studio Market, we can still install Flutter's Dart Code from Visual Studio Code itself.
+
+*Open* **Visual Studio Code**.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/blank%20studio%20workspace.JPG)
 
