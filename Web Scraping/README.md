@@ -45,4 +45,10 @@ once finished typing, ***Press*** <**shift + enter**> to run current cell and cr
 
 ## Requesting from website 
 
-Next, we must tell our python what web page we will be using. In our example we will be using [World-O-Meter](https://www.worldometers.info/coronavirus/) as a source of information.
+Next, we must tell our python what web page we will be using. In our example, we will be using [World-O-Meter](https://www.worldometers.info/coronavirus/) as a source of information.
+
+```
+req = requests.get('https://www.worldometers.info/coronavirus/')
+```
+
+we set a variable named **req** that will request and return the HTML source from the set website.
