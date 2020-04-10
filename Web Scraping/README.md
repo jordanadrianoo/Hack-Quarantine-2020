@@ -25,3 +25,7 @@ Once a blank document is opened in a new tab we can begin to populate it with co
 
 ### Importing Libraries
 
+in the first cell we will begin to import the essential librarys needed.
+```
+code
+```
