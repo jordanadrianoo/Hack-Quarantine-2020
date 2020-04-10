@@ -59,3 +59,8 @@ Next, close out of everything to get a clean workspace.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/blank%20studio%20workspace.JPG)
 
+Although we did install the Flutter Extension, We must also install the **Flutter Dart Code** 
+
+*click* <**view**> 
+then you must 
+*click* <**comand palette**>
