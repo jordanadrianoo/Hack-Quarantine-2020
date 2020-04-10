@@ -67,4 +67,4 @@ Although we did install the Flutter Extension, We must also install the **Flutte
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Install%20Extensions.JPG)
 
-**type** "**install**" in the search box and options should start to become available. We are going to **click** **Extensions: Install Extensions**
+*type* "**install**" in the search box and options should start to become available. We are going to *click* **Extensions: Install Extensions**
