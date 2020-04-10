@@ -69,7 +69,7 @@ When developing a Web Scraper it is important to understand how HTML is containi
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table.JPG)
 
-***note:*** *data will be different from the time this repository was made. 
+***note:*** *data will be different from the time this repository was made.* 
 
 Next, we will inspect how the table is being used in HTML. We can do this by selecting a country in the first column and **right click** on the mouse and selecting **Inspect Element**
 
