@@ -4,7 +4,7 @@ In this repository we will look at the essientials and fundamentals of web scrap
 
 ## Colab 
 
-This Colab is an online Jupyter Notebook that allows the uses google drive to run or create code without having to install the full Jupyter's Full IDE. ___*Warning:* ___***you must be logged into google***
+This Colab is an online Jupyter Notebook that allows the uses google drive to run or create code without having to install the full Jupyter's Full IDE. __Warning:__***you must be logged into google***
 
 [Colab](https://colab.research.google.com/drive/1KGh5r59YJuNRCR3JRhJCJojgt9vR8IUW#scrollTo=7RyOhSZaiM7R): Link to the Colab we will be using throughout the Web Scraping.
 
