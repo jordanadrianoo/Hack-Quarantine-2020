@@ -53,5 +53,5 @@ To download the Visual Studio Flutter Extension it can be easily downloaded with
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Extension%20Download.JPG)
 
-Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio Code IDE.
+Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio Code IDE. **note:** *My visual code might look different than yours due to my theme.* 
 
