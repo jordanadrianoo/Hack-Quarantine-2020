@@ -1,4 +1,4 @@
-# Flutter with Visual Studio Code
+# Flutter
 
 Flutter is an UI software development kit created by google. Flutter allows for fast creation of mobile apps. Supported platforms include but are not limited to Windows, Mac, Linux, iOS, and Android. [Full video tutorial](https://www.youtube.com/watch?v=2tmAQ3RGh1w) on Youtube.
 
@@ -21,7 +21,6 @@ You can simpy install flutter using their main web page and following the direct
 - [Flutter for MacOS](https://flutter.dev/docs/get-started/install/macos)
 - [Flutter for Linux](https://flutter.dev/docs/get-started/install/linux)
 - [Andriod Studio](https://developer.android.com/studio)
-- [Flutter extension for Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 ## Fluter Console
 
@@ -42,4 +41,8 @@ The **Flutter Doctor** will check if you are ready to start developing in 5 diff
 
 If you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
 
-For this project, we will be developing on Visual Studio Code. Most likely Flutter Doctor will indicate that Visual Studio is not ready for Flutter development. We will need to download a [Flutter Extention for Visual Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter).
+For this project, we will be developing on Visual Studio Code. Most likely Flutter Doctor will indicate that Visual Studio is not ready for Flutter development. We will need to download an extension.
+
+## Flutter Extension for Visual Code
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Flutter%20Extension.JPG)
