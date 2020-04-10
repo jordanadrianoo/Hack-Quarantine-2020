@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 ```
 
 **Library purpose**
-- numpy:fd
-- pandas:df
-- request:df
-- BeautifulSoup:df
+- *numpy:* this will allow us to create multi dimensional lists
+- *pandas:* is used for data manipulation and analysis
+- *request:* 
+- *BeautifulSoup:*df
