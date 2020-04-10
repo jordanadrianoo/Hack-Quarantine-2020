@@ -53,7 +53,7 @@ req = requests.get('https://www.worldometers.info/coronavirus/')
 
 we set a variable named **req** that will use request and store the HTML source returned from the website we provided.
 
-In a new cell, type
+In a new cell, ***type***
 
 ```
 soup = BeautifulSoup(req.content)
@@ -79,7 +79,7 @@ The Inspect Element is is an important developers tool that can provide live fee
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20ID.JPG)
 
-As you can see, the tables ID is called **"main_table_countries_today"**. Now that we know the tables ID we can ***press*** <**Ctrl+F**> to search through the HTML document. In the search box we will type
+As you can see, the tables ID is called **"main_table_countries_today"**. Now that we know the tables ID we can ***press*** <**Ctrl+F**> to search through the HTML document. In the search box we will ***type***
 
 ```
 table# main_table_countries_today
@@ -107,11 +107,15 @@ data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.
 
 This extremly difficult part can be fully explained using this [video source](http://www.youtube.com/watch?v=Ssi1A8FAAFI&t=16m25s). This video will start in the middle explaining how to find pattern recognition and how this parsing line of code works. 
 
-In a new cell we will type
+In a new cell we will ***type***
 
 ```
 df = pd.DataFrame(data)
 ```
+
+This will transfer the content from data and parse it into the panda dataframe.
+
+
 
 
 
