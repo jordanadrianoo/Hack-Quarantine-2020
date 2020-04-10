@@ -137,7 +137,7 @@ when this cell is run without errors we have formated all of the data into panda
 ```
 df
 ```
-
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Our%20Data%20Table.JPG)
 
 
 
