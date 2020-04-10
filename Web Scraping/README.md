@@ -73,7 +73,15 @@ Next, we will inspect how the table is being used in HTML. We can do this by sel
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20Inspect%20Element.JPG)
 
-if we scroll up we are looking for the table ID to reference.
+The Inspect Element is is an important developers tool that can provide live feedback. We are currently trying to find the data tables ID. If we scroll up slowly we should be able to find where the tables ID is called.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20ID.JPG)
+
+As you can see, the tables ID is called **"main_table_countries_today"**. Now that we know the tables ID we can ***press*** <**Ctrl+F**> to search through the HTML document. In the search box we will type
+
+```
+table# main_table_countries_today
+```
+
+
 
