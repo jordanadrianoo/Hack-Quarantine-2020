@@ -42,3 +42,7 @@ once finished typing, ***Press*** <**shift + enter**> to run current cell and cr
 - **pandas:** is used for data manipulation and analysis
 - **request:** allows HTML request to function smoothly
 - **BeautifulSoup:** allows us to extract and parse HTML and XML Doccuments.
+
+## Requesting from website 
+
+Next, we must tell our python what web page we will be using. In our example we will be using [World-O-Meter](https://www.worldometers.info/coronavirus/) as a source of information.
