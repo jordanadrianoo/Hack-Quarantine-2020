@@ -45,10 +45,11 @@ For this project, we will be developing on **Visual Studio Code**. Most likely F
 
 ## Flutter Extension for Visual Code
 
-Downloading an extension for **Visual Studio Code** is easy because of how open Studio code can be. 
-
 [Visual Studio Flutter Extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Flutter%20Extension.JPG)
+
+To download the Visual Studio Flutter Extension it can be easily downloaded with the provided link. Once you click **Download** you will be prompted to be redirected to Visual Studio Code; Confirm this action.
+
 
 
