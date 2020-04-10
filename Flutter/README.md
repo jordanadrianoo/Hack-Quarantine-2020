@@ -8,7 +8,10 @@ you will need to have both **Git Bash** and **Visual Code** for this project.
 
 ### Software Download Links
 
-- [Git bash]
+- [Git bash for Windows](https://gitforwindows.org/)
+- [Git bash for MacOS](https://git-scm.com/download/mac)
+
+- [Visual Code](https://code.visualstudio.com/)
 
 
 ## Installing Flutter SDK
