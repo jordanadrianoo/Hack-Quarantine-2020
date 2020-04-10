@@ -129,3 +129,7 @@ df = df.drop(0, axis=0)
 ```
 
 This third line will delete the first list to avoid duplications
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/formating.JPG)
+
+
