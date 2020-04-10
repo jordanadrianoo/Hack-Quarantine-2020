@@ -39,7 +39,7 @@ The **Flutter Doctor** will check if you are ready to start developing in 5 diff
 - **IntelliJ**
 - **Visual Studio Code**
 
-you can use Flutter Doctor by **typing** on the Flutter Console. 
+you can use **Flutter Doctor** by *typing* on the **Flutter Console**. 
 
 ```
 flutter doctor
