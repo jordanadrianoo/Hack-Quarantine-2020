@@ -61,6 +61,6 @@ Next, close out of everything to get a clean workspace.
 
 Although we did install the Flutter Extension, We must also install the **Flutter Dart Code** 
 
-*click* <**view**> 
-then you must 
-*click* <**comand palette**>
+Navigate to **View** >> **command Palette**
+
+![image](
