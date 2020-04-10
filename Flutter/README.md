@@ -12,6 +12,7 @@ You can simpy install flutter using their main web page and following the direct
 - [Flutter for MacOS](https://flutter.dev/docs/get-started/install/macos)
 - [Flutter for Linux](https://flutter.dev/docs/get-started/install/linux)
 - [Andriod Studio](https://developer.android.com/studio)
+- [Flutter extension for Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 ## Fluter Console
 
