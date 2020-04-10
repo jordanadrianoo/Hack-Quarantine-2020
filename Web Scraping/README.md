@@ -151,3 +151,7 @@ df.to_csv('covid19.csv')
 This will export the data table as a CVS and save within the google drive. Location to download locally is found under the table of content.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/CSV%20location.JPG)
+
+Once downloaded locally, you can **open** the file in **Microsoft Excel**. 
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Excel%20Spread%20Sheet.JPG)
