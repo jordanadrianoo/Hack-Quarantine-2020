@@ -6,3 +6,4 @@ In this repository we will look at the essientials and fundamentals of web scrap
 
 This Colab is an online Jupyter Notebook that allows the uses google drive to run or create code without having to install the full Jupyter's Full IDE. 
 
+<img src="Repository Images/Colab demo.JPG">
