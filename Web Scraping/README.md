@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 ```
 
 **Library purpose**
-- **numpy:** this will allow us to create multi dimensional lists
+- **numpy:** allows us to create multi-dimensional arrays
 - **pandas:** is used for data manipulation and analysis
 - **request:** allows HTML request to function smoothly
-- **BeautifulSoup:** 
+- **BeautifulSoup:** allows us to extract and parse HTML and XML Doccuments.
