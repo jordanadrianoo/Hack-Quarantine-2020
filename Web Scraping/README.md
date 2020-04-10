@@ -27,5 +27,9 @@ Once a blank document is opened in a new tab we can begin to populate it with co
 
 in the first cell we will begin to import the essential librarys needed.
 ```
-code
+import numpy as np
+import pandas as pd
+
+import requests
+from bs4 import BeautifulSoup
 ```
