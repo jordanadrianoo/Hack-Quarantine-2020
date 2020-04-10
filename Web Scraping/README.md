@@ -102,3 +102,5 @@ Back in your Notebook we will use this infomation to create a new cell to parse 
 ```
 data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.select('table#main_table_countries_today tr')))
 ```
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Parsing%20the%20table.JPG)
