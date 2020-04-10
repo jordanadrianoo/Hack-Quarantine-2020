@@ -23,5 +23,5 @@ we will need to open up a new Jupyter Notebook. Expand **File** and select **New
 
 Once a blank document is opened in a new tab we can begin to populate it with code!
 
-
+### Importing Libraries
 
