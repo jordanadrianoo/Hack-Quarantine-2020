@@ -51,4 +51,10 @@ Next, we must tell our python what web page we will be using. In our example, we
 req = requests.get('https://www.worldometers.info/coronavirus/')
 ```
 
-we set a variable named **req** that will request and return the HTML source from the set website.
+we set a variable named **req** that will use request to return the HTML source from the website we provided.
+
+In a new cell, type
+
+```
+soup = BeautifulSoup(req.content)
+```
