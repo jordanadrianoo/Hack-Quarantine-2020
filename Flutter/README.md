@@ -5,3 +5,7 @@ Flutter is an UI software development kit created by google. Flutter allows for 
 ## Installing Flutter SDK
 
 You can simpy install flutter using their main web page.
+
+### **Downloads**
+
+-[Flutter for Windows](https://flutter.dev/docs/get-started/install/windows)
