@@ -26,7 +26,7 @@ You can simpy install flutter using their main web page and following the direct
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20cmd.JPG)
 
-## Flutter Doctor
+## Flutter Doctor and Setup
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Doctor.JPG)
 
@@ -51,5 +51,7 @@ For this project, we will be developing on **Visual Studio Code**. Most likely F
 
 To download the Visual Studio Flutter Extension it can be easily downloaded with the provided link. Once you click **Download** you will be prompted to be redirected to Visual Studio Code; Confirm this action.
 
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/VS%20Extension%20Download.JPG)
 
+Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio Code IDE.
 
