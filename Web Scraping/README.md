@@ -17,7 +17,7 @@ Your colab should look like this. This colab document will be used as a guide to
 
 ## Colab Web Scraping from scratch
 
-we will need to open up a new Jupyter Notebook.
+we will need to open up a new Jupyter Notebook. Expand **File** and select **New Notebook**.
 
 ![image](https://github.com/jordanadrianoo/Hack-Quarantine-2020/blob/master/Repository%20Images/Web%20Scraper%20Images/Colab%20New%20Notebook%20demo.JPG?raw=true)
 
