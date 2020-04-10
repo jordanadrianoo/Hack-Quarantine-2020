@@ -140,8 +140,14 @@ df
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Our%20Data%20Table.JPG)
 
 
-**congratulations!** You have successfully extracted the information from the website provided. What can we do with this information though? Thank you for asking! we can export this information into a **cvs** file.
+**congratulations!** You have successfully extracted the information from the website provided. What can we do with this information though? Thank you for asking! we can export this information into a **cvs** file. ***type***
+
+```
+df.to_csv('covid19.csv')
+```
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Export%20to%20CSV.JPG)
 
+This will export the data table as a CVS and save within the google drive. Location to download locally is found under the table of content.
 
+![image](df.to_csv('covid19.csv'))
