@@ -63,4 +63,4 @@ Although we did install the Flutter Extension, We must also install the **Flutte
 
 Navigate to **View** >> **command Palette**
 
-![image](
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Command%20Palette.JPG)
