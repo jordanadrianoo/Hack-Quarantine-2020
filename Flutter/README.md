@@ -39,6 +39,12 @@ The **Flutter Doctor** will check if you are ready to start developing in 5 diff
 - **IntelliJ**
 - **Visual Studio Code**
 
+you can use Flutter Doctor by **typing** on the Flutter Console. 
+
+```
+flutter doctor
+```
+
 If you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
 
 For this project, we will be developing on **Visual Studio Code**. Most likely Flutter Doctor will indicate that **Visual Studio code** is not ready for Flutter development. We will need to download an extension.
