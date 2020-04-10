@@ -55,3 +55,7 @@ Once you click **Download** you will be prompted to be redirected to Visual Stud
 
 Visual Studio Code will redirect you to the proper installation page. click **Install** to add the extension to your Visual Studio IDE. **Note:** *My visual code might look different than yours due to my theme.* 
 
+Next, close out of everything to get a clean workspace.
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/blank%20studio%20workspace.JPG)
+
