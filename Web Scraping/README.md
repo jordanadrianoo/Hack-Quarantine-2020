@@ -107,7 +107,11 @@ data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.
 
 This extremly difficult part can be fully explained using this [video source](http://www.youtube.com/watch?v=Ssi1A8FAAFI&t=16m25s). This video will start in the middle explaining how to find pattern recognition and how this parsing line of code works. 
 
-In a new cell we will ***type***
+# Formating with Panda's dataframe
+
+It is important to make sure that all the information we extract is displayed in a clean easy to read format.
+
+Thus, in a new cell we will ***type***
 
 ```
 df = pd.DataFrame(data)
@@ -139,9 +143,11 @@ df
 ```
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Our%20Data%20Table.JPG)
 
+**congratulations!** You have successfully extracted and displayed the information from the website provided.
+
 ## Exporting as CVS file
 
-**congratulations!** You have successfully extracted the information from the website provided. What can we do with this information though? Thank you for asking! we can export this information into a **cvs** file. ***type***
+What can we do with this information though? Thank you for asking! we can export this information into a **CVS** file. CVS files can be used for a wide arangement of data structures or statistics. ***type***
 
 ```
 df.to_csv('covid19.csv')
@@ -157,5 +163,5 @@ Once downloaded locally, you can **open** the file in **Microsoft Excel**.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Excel%20Spread%20Sheet.JPG)
 
-With the foundation of web scraping there is alot of information you can extract and conclude. Try using diffrent websites and see what you can extract!
+With the foundation of web scraping there is alot of information you can extract and conclude. Try using diffrent websites and see what you can scrape together!
 
