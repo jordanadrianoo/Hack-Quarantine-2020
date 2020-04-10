@@ -85,5 +85,6 @@ table# main_table_countries_today
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20find%20ID.JPG)
 
+We are searching the entire 
 
 
