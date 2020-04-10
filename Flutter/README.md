@@ -21,3 +21,6 @@ You can simpy install flutter using their main web page and following the direct
 ## Flutter Doctor
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Doctor.JPG)
+
+The flutter Doctor will check if you are ready to start developing in 5 different platforms.
+
