@@ -11,7 +11,7 @@ This Colab is an online Jupyter Notebook that allows the uses google drive to ru
 [Colab](https://colab.research.google.com/drive/1KGh5r59YJuNRCR3JRhJCJojgt9vR8IUW#scrollTo=7RyOhSZaiM7R): Link to the Colab we will be using throughout the Web Scraping.
 
 
-![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Colab%20demo.JPG)
+![image](https://github.com/jordanadrianoo/Hack-Quarantine-2020/blob/master/Repository%20Images/Colab%20demo.JPG)
 
 Your colab should look like this. This colab document will be used as a guide to ensure all code is types and formatted correctly.
 
