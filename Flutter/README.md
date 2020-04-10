@@ -2,11 +2,20 @@
 
 Flutter is an UI software development kit created by google. Flutter allows for fast creation of mobile apps. Supported platforms include but are not limited to Windows, Mac, Linux, iOS, and Android. [Full video tutorial](https://www.youtube.com/watch?v=2tmAQ3RGh1w) on Youtube.
 
+## pre-required Software
+
+you will need to have both **Git Bash** and **Visual Code** for this project. 
+
+### Software Download Links
+
+- [Git bash]
+
+
 ## Installing Flutter SDK
 
 You can simpy install flutter using their main web page and following the directions according to platform you are developing in.
 
-### **Download Links-**
+### **Flutter Download Links-**
 
 - [Flutter for Windows](https://flutter.dev/docs/get-started/install/windows)
 - [Flutter for MacOS](https://flutter.dev/docs/get-started/install/macos)
@@ -26,10 +35,12 @@ The flutter Doctor will check if you are ready to start developing in 5 differen
 
 **Platform IDEs-**
 
-- *Microsoft Windows
-- *Android toolchain
-- *Android Studio
-- *IntelliJ
-- *Visual Studio Code
+- *Microsoft Windows*
+- *Android toolchain*
+- *Android Studio*
+- *IntelliJ*
+- *Visual Studio Code*
 
-if you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
+If you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
+
+For this project, we will be developing on Visual Studio Code. 
