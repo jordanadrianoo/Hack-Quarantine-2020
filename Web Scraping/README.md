@@ -65,4 +65,6 @@ this will also set a varible named **soup** that will parase the content within 
 
 When developing a Web Scraper it is important to understand how HTML contains its data. When visiting a variety of websites it is crucial to see the patterns that data is stored. For this web crawler we will extract all the data from [World-O-Meter's](https://www.worldometers.info/coronavirus/) table.
 
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table.JPG)
+
 
