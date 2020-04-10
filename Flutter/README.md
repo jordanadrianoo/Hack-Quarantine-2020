@@ -17,3 +17,7 @@ You can simpy install flutter using their main web page and following the direct
 ## Fluter Console
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20cmd.JPG)
+
+## Flutter Doctor
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Doctor.JPG)
