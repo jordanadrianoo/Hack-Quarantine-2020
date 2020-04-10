@@ -33,11 +33,11 @@ You can simpy install flutter using their main web page and following the direct
 The **Flutter Doctor** will check if you are ready to start developing in 5 different platforms and if a smartphone is connected.
 
 **Platform IDEs-**
-- *Microsoft Windows*
-- *Android toolchain*
-- *Android Studio*
-- *IntelliJ*
-- *Visual Studio Code*
+- **Microsoft Windows**
+- **Android toolchain**
+- **Android Studio**
+- **IntelliJ**
+- **Visual Studio Code**
 
 If you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
 
