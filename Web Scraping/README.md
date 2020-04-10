@@ -142,6 +142,6 @@ df
 
 **congratulations!** You have successfully extracted the information from the website provided. What can we do with this information though? Thank you for asking! we can export this information into a **cvs** file.
 
-
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Export%20to%20CSV.JPG)
 
 
