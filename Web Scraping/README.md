@@ -23,7 +23,7 @@ we will need to open up a new Jupyter Notebook. Expand **File** and select **New
 
 Once a blank document is opened in a new tab we can begin to populate it with code!
 
-### Importing Libraries
+## Importing Libraries
 
 in the first cell we will begin to import the essential librarys needed.
 ```
@@ -33,3 +33,9 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 ```
+
+**Library purpose**
+- numpy:fd
+- pandas:df
+- request:df
+- BeautifulSoup:df
