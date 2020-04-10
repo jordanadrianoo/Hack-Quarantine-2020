@@ -122,4 +122,10 @@ df.columns = df.iloc[0]
 ```
 This second part of code will set the first list of arrays as the title. 
 
+again in the same cell ***type***
 
+```
+df = df.drop(0, axis=0)
+```
+
+This third line will delete the first list to avoid duplications
