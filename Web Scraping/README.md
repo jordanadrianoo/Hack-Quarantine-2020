@@ -1,6 +1,6 @@
 # Web Scraping with Python
 
-In this repository we will look at the essientials and fundamentals of web scraping. This web scraper will be created within the Python Jupyter Notebook IDE and use **numpy**, **pandas**, **request**, and **BeautifulSoup** libraries. It is possible to use a standard Python IDE with proper preperations, but for this repository it is advised to use the online Colab provided below for it includes the essiential libraries. Credit and video belongs to Wyatt Phillips. Here is a video link to the [full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI) on youtube!
+In this repository we will look at the essentials and fundamentals of web scraping. This web scraper will be created within the Python Jupyter Notebook IDE and use **numpy**, **pandas**, **request**, and **BeautifulSoup** libraries. It is possible to use a standard Python IDE with proper preparations, but for this repository it is advised to use the online Colab provided below for it includes the essential libraries. Credit and video belongs to Wyatt Phillips. Here is a video link to the [full tutorial](https://www.youtube.com/watch?v=Ssi1A8FAAFI) on youtube!
 
 ## Colab Setup
 
@@ -25,7 +25,7 @@ Once a blank document is opened in a new tab we can begin to populate it with co
 
 ## Importing Libraries
 
-in the first cell we will begin to import the essential librarys needed.
+in the first cell we will begin to import the essential libraries needed.
 ```
 import numpy as np
 import pandas as pd
@@ -41,7 +41,7 @@ once finished typing, ***Press*** <**shift + enter**> to run current cell and cr
 - **numpy:** allows us to create multi-dimensional arrays
 - **pandas:** is used for data manipulation and analysis
 - **request:** allows HTML request to function smoothly
-- **BeautifulSoup:** allows us to extract and parse HTML and XML Doccuments.
+- **BeautifulSoup:** allows us to extract and parse HTML and XML Documents.
 
 ## Requesting from website 
 
@@ -59,11 +59,11 @@ In a new cell, ***type***
 soup = BeautifulSoup(req.content)
 ```
 
-this will also set a varible named **soup** that will parase the content within **req**.
+this will also set a variable named **soup** that will parase the content within **req**.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/parsing%20HTML.JPG)
 
-## Extractin Data from Website
+## Extracting Data from Website
 
 When developing a Web Scraper it is important to understand how HTML is containing its data. When visiting a variety of websites it is crucial to see the patterns that data is stored within HTML. For this web crawler we will extracting all the data from [World-O-Meter's](https://www.worldometers.info/coronavirus/) data table. A clear pattern can be seen within the rows and columns.
 
@@ -75,7 +75,7 @@ Next, we will inspect how the table is being used in HTML. We can do this by sel
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20Inspect%20Element.JPG)
 
-The Inspect Element is is an important developers tool that can provide live feedback. We are currently trying to find the data tables ID. If we scroll up slowly we should be able to find where the tables ID is called.
+The Inspect Element is is an important developer’s tool that can provide live feedback. We are currently trying to find the data tables ID. If we scroll up slowly we should be able to find where the tables ID is called.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20ID.JPG)
 
@@ -87,7 +87,7 @@ table# main_table_countries_today
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/data%20table%20find%20ID.JPG)
 
-We are searching the entire HTML doument for the table ID but we will add **tr** to return each element within the table. 
+We are searching the entire HTML document for the table ID but we will add **tr** to return each element within the table. 
 
  ```
 table# main_table_countries_today tr
@@ -97,7 +97,7 @@ table# main_table_countries_today tr
 
 now that we can confirm that these are the elements within the table we can tell python what to extract from the HTML document.
 
-Back in your Notebook we will use this infomation to create a new cell to parse the information. ***Disclaimer:*** *This section can be very challenging to read at first*. 
+Back in your Notebook we will use this information to create a new cell to parse the information. ***Disclaimer:*** *This section can be very challenging to read at first*. 
 
 ```
 data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.select('table#main_table_countries_today tr')))
@@ -105,9 +105,9 @@ data = list(map(lambda x: list(map(lambda y: y.text, x.select('td, th'))), soup.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Parsing%20the%20table.JPG)
 
-This extremly difficult part can be fully explained using this [video source](http://www.youtube.com/watch?v=Ssi1A8FAAFI&t=16m25s). This video will start in the middle explaining how to find pattern recognition and how this parsing line of code works. 
+This extremely difficult part can be fully explained using this [video source](http://www.youtube.com/watch?v=Ssi1A8FAAFI&t=16m25s). This video will start in the middle explaining how to find pattern recognition and how this parsing line of code works. 
 
-# Formating with Panda's dataframe
+# Formatting with Panda's dataframe
 
 It is important to make sure that all the information we extract is displayed in a clean easy to read format.
 
@@ -126,7 +126,7 @@ df.columns = df.iloc[0]
 ```
 This second part of code will set the first list of arrays as the title. 
 
-again in the same cell ***type***
+again, in the same cell ***type***
 
 ```
 df = df.drop(0, axis=0)
@@ -136,7 +136,7 @@ This third line will delete the first list to avoid duplications
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/formating.JPG)
 
-when this cell is run without errors we have formated all of the data into pandas dataframe and is ready to be displayed by simply calling it into a new cell.
+when this cell is run without errors we have formatted all of the data into pandas dataframe and is ready to be displayed by simply calling it into a new cell.
 
 ```
 df
@@ -147,7 +147,7 @@ df
 
 ## Exporting as CVS file
 
-What can we do with this information though? Thank you for asking! we can export this information into a **CVS** file. CVS files can be used for a wide arangement of data structures or statistics. ***type***
+What can we do with this information though? Thank you for asking! we can export this information into a **CVS** file. CVS files can be used for a wide arrangement of data structures or statistics. ***type***
 
 ```
 df.to_csv('covid19.csv')
@@ -163,7 +163,7 @@ Once downloaded locally, you can **open** the file in **Microsoft Excel**.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Web%20Scraper%20Images/Excel%20Spread%20Sheet.JPG)
 
-With the foundation of web scraping there is alot of information you can extract and conclude. Try using diffrent websites and see what you can scrape together!
+With the foundation of web scraping there is a lot of information you can extract and conclude. Try using different websites and see what you can scrape together!
 
 # sources
 
