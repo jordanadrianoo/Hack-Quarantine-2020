@@ -127,7 +127,7 @@ Now with the target smartphone select we can hit DeBug and run. This will now se
 <img src="https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/App%20Demo.JPG" width="400">
 </p>
 
-**congratulations!** You have developed your first interactive application on Android! Go ahead and test out the app by pressing the button as many times as you can! With this foundation, You can now quickly begin to develop apps for a wide range of platforms!
+**congratulations!** You have developed your first interactive application on Android! Go ahead and test out the app by pressing the button as many times as you can! With this foundation, you can now quickly begin to develop apps for a wide range of platforms!
 
 # Sorces
 
