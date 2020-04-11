@@ -95,4 +95,8 @@ Once you decide where the project will be created and stored, **Flutter** will g
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/myapp%20created.JPG)
 
+Although this may seem intimidating, Flutter has handled all of the packets in the background. We will be mostly using and editing **main.dart** file.
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Android%20Emulator.JPG)
+
 
