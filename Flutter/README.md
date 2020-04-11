@@ -100,13 +100,13 @@ Although this may seem intimidating, Flutter has handled all of the packets in t
 To test run our **main.dart** we must first select what device or emulation device we will perform on. In the bottom left corner, We will select the Android Smartphone we connected earlier. 
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Android%20Emulator.JPG)
-
 Now with the target smartphone select we can hit DeBug and run. 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/App%20Demo.JPG" width="400">
 </p>
 
+**congratulations!** You have developed your first interactive application on Android! Go ahead and test out the app by pressing the button as many times as you can! With this foundation, You can now quickly begin to develop apps for a wide range of platforms!
 
 
 
