@@ -103,7 +103,7 @@ To test run our **main.dart** we must first select what device or emulation devi
 
 Now with the target smartphone select we can hit DeBug and run. 
 
-![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/App%20Demo.JPG| width=100)
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/App%20Demo.JPG=250x250)
 
 
 
