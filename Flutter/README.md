@@ -100,7 +100,7 @@ To be able to link a physical Smartphone we must use a USB to attack it to the c
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Developers%20Mode.JPG)
  
- Once you have enabled **Developers Mode**, unlock and plug your smartphone into you computer. You should get a message that will ask if the computer can have access to your phone files; Confirm and give the computer privilege. More informatino about **Developers Mode** can be found at the provided [Link](https://developer.android.com/studio/debug/dev-options).  
+ Once you have enabled **Developers Mode**, unlock and plug your smartphone into you computer. You should get a message that will ask if the computer can have access to your phone files; Confirm and give the computer privilege. More information about **Developers Mode** can be found at the provided [Link](https://developer.android.com/studio/debug/dev-options).  
 
 
 ## Flutter: My First Application
