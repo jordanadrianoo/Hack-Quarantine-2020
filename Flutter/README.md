@@ -99,7 +99,8 @@ Flutter's main page also provides a [complete installation guide to Installing A
 To be able to link a physical Smartphone we must use a USB to attack it to the computer. In addition we must ensure the phone is set to **Debug Mode** found under the **Developers settings**. 
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Developers%20Mode.JPG)
-
+ 
+ Once you have enabled **Developers Mode**, unlock and plug your smartphone into you computer. You should get a message that will ask if the computer can have access to your phone files; Confirm and give the computer privilege. More informatino about **Developers Mode** can be found at the provided [Link](https://developer.android.com/studio/debug/dev-options).  
 
 
 ## Flutter: My First Application
@@ -131,10 +132,12 @@ Now with the target smartphone select we can hit DeBug and run. This will now se
 # Sorces
 
 - [HackQuarintine Flirting with Flutter](https://www.youtube.com/watch?v=2tmAQ3RGh1w)
+- [Android Developers Mode](https://developer.android.com/studio/debug/dev-options)  
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [Git bash](https://gitforwindows.org/)
 - [Flutter](https://flutter.dev/)
+
 
 
 
