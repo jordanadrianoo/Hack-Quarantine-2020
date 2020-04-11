@@ -83,6 +83,10 @@ Although we did install the Flutter Extension, We must also install the **Flutte
 
 In the new search box *type* "**Flutter**" and click on the first option. A new flutter page should open up and look similar to the first section that we downloaded. This is the Flutters Dart Code. click **Install** to add the extension to your Visual Studio IDE.
 
+## Installing Andriod Studio
+
+We must install [Andriod Studio](https://developer.android.com/studio) to be able to interact with Android Smartphones. Flutter's main page also provides a [complete installation guide to Android Studio](https://flutter.dev/docs/get-started/install/windows).
+
 ## Flutter: My First Application
 
 To create a New Flutter Project. Navigate back to **view**>>**comand palette** and *type* **Flutter**.
