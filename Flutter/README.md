@@ -112,10 +112,11 @@ Now with the target smartphone select we can hit DeBug and run. This will now se
 # Sorces
 
 - [HackQuarintine Flirting with Flutter](https://www.youtube.com/watch?v=2tmAQ3RGh1w)
-- [Git bash](https://gitforwindows.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Flutter](https://flutter.dev/)
 - [Android Studio](https://developer.android.com/studio)
+- [Git bash](https://gitforwindows.org/)
+- [Flutter](https://flutter.dev/)
+
 
 
 
