@@ -14,15 +14,15 @@ you will need to have both **Git Bash** and **Visual Code** for this project. **
 
 ## Installing Flutter SDK
 
-You can simpy install flutter using their main web page and following the directions according to platform you are developing in.
+You can simply install flutter using their main web page and following the directions according to platform you are developing in.
 
 ### **Flutter Download Links-**
 - [Flutter for Windows](https://flutter.dev/docs/get-started/install/windows)
 - [Flutter for MacOS](https://flutter.dev/docs/get-started/install/macos)
 - [Flutter for Linux](https://flutter.dev/docs/get-started/install/linux)
-- [Andriod Studio](https://developer.android.com/studio)
+- [Android Studio](https://developer.android.com/studio)
 
-## Fluter Console
+## Flutter Console
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20cmd.JPG)
 
@@ -45,7 +45,7 @@ you can use **Flutter Doctor** by *typing* on the **Flutter Console**.
 flutter doctor
 ```
 
-If you see that any of the section is not checked or has a red x, follow the instuctions provided to install into which ever platoform you wish to develope on.
+If you see that any of the section is not checked or has a red x, follow the instructions provided to install into whichever platform you wish to develop on.
 
 For this project, we will be developing on **Visual Studio Code**. Most likely Flutter Doctor will indicate that **Visual Studio code** is not ready for Flutter development. We will need to download an extension.
 
