@@ -91,11 +91,13 @@ We must install [Andriod Studio](https://developer.android.com/studio) and the *
 
 Flutter's main page also provides a [complete installation guide to Installing Android Studio](https://flutter.dev/docs/get-started/install/windows).
 
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Android%20guide.JPG)
+
+
 ## Linking Android Smartphone
 
 To be able to link a physical Smartphone we must use a USB to attack it to the computer. In addition we must ensure the phone is set to **Debug Mode** found under the **Developers settings**. 
 
-![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Android%20guide.JPG)
 
 
 
