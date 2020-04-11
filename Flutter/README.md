@@ -97,10 +97,11 @@ Once you decide where the project will be created and stored, **Flutter** will g
 
 Although this may seem intimidating, Flutter has handled all of the packets in the background. We will be mostly using and editing **main.dart** file.
 
-To test run our **main.dart** we must first select what device or emulation device we will perform on. In the bottom left corner, We will select the Android Smartphone we connected earlier. 
+To test run our **main.dart** we must first select what device or emulation device we will perform on. In the bottom right corner, We will select the Android Smartphone we connected earlier. 
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Android%20Emulator.JPG)
-Now with the target smartphone select we can hit DeBug and run. 
+
+Now with the target smartphone select we can hit DeBug and run. This will now send code to the Android phone and open a **Flutter Application** that should look like this.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/App%20Demo.JPG" width="400">
