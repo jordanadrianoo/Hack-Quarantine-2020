@@ -101,5 +101,7 @@ To test run our **main.dart** we must first select what device or emulation devi
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Android%20Emulator.JPG)
 
+Now with the target smartphone select we can hit DeBug and run. If done correctly your smartphone will luanch a Flutter Application and display how many time you have hit the button!
+
 
 
