@@ -93,5 +93,6 @@ Next, we will name and save the application whatever we choose. **Note:** *appli
 
 Once you decide where the project will be created and stored, **Flutter** will generate all the neccesary packets to creating an app. If all is done correctly, your **Visual Studio Code** should look like this.
 
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/myapp%20created.JPG)
 
 
