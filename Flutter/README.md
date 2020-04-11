@@ -88,3 +88,6 @@ In the new search box *type* "**Flutter**" and click on the first option. A new 
 To create a New Flutter Project. Navigate back to **view**>>**comand palette** and *type* **Flutter**.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20new%20project.JPG)
+
+Next, we will name out application whatever we choose. **Note:** *application names must all be lowercase.
+
