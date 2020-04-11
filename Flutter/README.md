@@ -94,10 +94,11 @@ Flutter's main page also provides a [complete installation guide to Installing A
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Android%20guide.JPG)
 
 
-## Linking Android Smartphone
+## Using Android Smartphone in Debug Mode
 
 To be able to link a physical Smartphone we must use a USB to attack it to the computer. In addition we must ensure the phone is set to **Debug Mode** found under the **Developers settings**. 
 
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Developers%20Mode.JPG)
 
 
 
