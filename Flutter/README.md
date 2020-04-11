@@ -89,6 +89,9 @@ To create a New Flutter Project. Navigate back to **view**>>**comand palette** a
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20new%20project.JPG)
 
-Next, we will name out application whatever we choose. **Note:** *application names must all be lowercase.
+Next, we will name and save the application whatever we choose. **Note:** *application names must all be lowercase.
 
-![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/myapp.JPG)
+Once you decide where the project will be created and stored, **Flutter** will generate all the neccesary packets to creating an app. If all is done correctly, your **Visual Studio Code** should look like this.
+
+
+
