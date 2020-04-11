@@ -85,11 +85,13 @@ In the new search box *type* "**Flutter**" and click on the first option. A new 
 
 ## Installing Andriod Studio
 
-We must install [Andriod Studio](https://developer.android.com/studio) to be able to interact with Android Smartphones.
+We must install [Andriod Studio](https://developer.android.com/studio) and the **obsolete Android SDK** to be able to interact with Android Smartphones. In addition, **Google USB** must be installed for proper communications between computer and smartphone.
 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Android%20Studio.JPG)
 
 Flutter's main page also provides a [complete installation guide to Android Studio](https://flutter.dev/docs/get-started/install/windows).
+
+![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Android%20guide.JPG)
 
 ## Flutter: My First Application
 
