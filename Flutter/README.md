@@ -90,7 +90,7 @@ We must install [Andriod Studio](https://developer.android.com/studio) and the *
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Android%20Studio.JPG)
 
 Flutter's main page also provides a [complete installation guide to Installing Android Studio](https://flutter.dev/docs/get-started/install/windows).
-
+ 
 ![image](https://raw.githubusercontent.com/jordanadrianoo/Hack-Quarantine-2020/master/Repository%20Images/Flutter%20images/Flutter%20Android%20guide.JPG)
 
 
