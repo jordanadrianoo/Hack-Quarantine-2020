@@ -17,4 +17,3 @@ Web scraping is an essiential tool that will extract large amount of informatino
 <img src="Repository Images/Flutter Banner.JPG" width="900" height="375">
 
 Introducing Flutter! Flutter is an open-source UI that allows the user to develop in a wide arrangment of platforms to quickly create apps on Android and iOS. Platform Development are but not limited to Windows, Mac, Linux, iOS, and Android. Bring you app into reality and Flirt with Flutter!
-
