@@ -174,4 +174,3 @@ With the foundation of web scraping there is a lot of information you can extrac
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Xpath Cheatsheet](https://devhints.io/xpath)
 - [Panda's Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop.html)
-
